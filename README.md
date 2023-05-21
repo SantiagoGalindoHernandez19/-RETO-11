@@ -9,3 +9,19 @@
 ---
 
 2)  Desarrolle un programa que permita realizar el producto de matrices . El programa debe validar las condiciones necesarias para ejecutar la operación.
+
+![Punto 2, reto 11](https://github.com/SantiagoGalindoHernandez19/-RETO-11/assets/124641609/2bdaed35-72a1-4594-9ad7-62d25db9e645)
+
+---
+
+3) Desarrolle un programa que permita obtener la matriz transpuesta de una matriz ingresada. El programa debe validar las condiciones necesarias para ejecutar la operación.
+
+![Punto 3, reto 11](https://github.com/SantiagoGalindoHernandez19/-RETO-11/assets/124641609/e84028c0-b688-4b35-9612-6dd87ec571e7)
+
+---
+
+4) Desarrollar un programa que sume los elementos de una columna dada de una matriz.
+
+---
+
+5) Desarrollar un programa que sume los elementos de una fila dada de una matriz.
