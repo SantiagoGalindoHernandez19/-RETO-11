@@ -30,3 +30,4 @@
 5) Desarrollar un programa que sume los elementos de una fila dada de una matriz.
 
 
+![Punto 4 y 5, reto 111](https://github.com/SantiagoGalindoHernandez19/-RETO-11/assets/124641609/c2bec9e7-c491-4e2a-905e-1f21af37c99a)
