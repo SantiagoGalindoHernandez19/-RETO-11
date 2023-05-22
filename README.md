@@ -22,6 +22,11 @@
 
 4) Desarrollar un programa que sume los elementos de una columna dada de una matriz.
 
+![Punto 4 y 5, reto 11](https://github.com/SantiagoGalindoHernandez19/-RETO-11/assets/124641609/0fa91ae2-d7a9-462b-90c9-0de2996e4542)
+
+
 ---
 
 5) Desarrollar un programa que sume los elementos de una fila dada de una matriz.
+
+
